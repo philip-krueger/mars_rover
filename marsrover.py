@@ -14,37 +14,40 @@ class rover:
 
             if(direction == 'N'):
                 if(moving == 'f'):
-                    #doshit
+                    self.y += 1
                 if(moving == 'b'):
-                    #doshit
+                    self.y -= 1
                 if(moving == 'r'):
-                    #doshit
+                    self.direction = 'E'
                 if(moving == 'l'):
-                    #doshit
+                    self.direction = 'W'
+
             elif(direction == 'S'):
 
                 if(moving == 'f'):
-                    #doshit
+                    self.y -= 1
                 if(moving == 'b'):
-                    #doshit
+                    self.y += 1
                 if(moving == 'r'):
-                    #doshit
+                    self.direction = 'W'
                 if(moving == 'l'):
-                    #doshit
+                   self.direction = 'E'
+
             elif (direction == 'E'):
 
                 if(moving == 'f'):
-                    #doshit
+                    self.x += 1
                 if(moving == 'b'):
-                    #doshit
+                    self.x -= 1
                 if(moving == 'r'):
-                    #doshit
+                    self.direction = 'S'
                 if(moving == 'l'):
-                    #doshit
+                    self.direction = 'N'
+
             elif (direction == 'W'):
 
                 if(moving == 'f'):
-                    #doshit
+                    self.x -= '1'
                 if(moving == 'b'):
                     #doshit
                 if(moving == 'r'):

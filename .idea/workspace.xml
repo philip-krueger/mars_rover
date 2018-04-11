@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a0de20d-328a-46ca-82b5-c807c872e020" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/marsrover.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_marsrover.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/marsrover.py" beforeDir="false" afterPath="$PROJECT_DIR$/marsrover.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,10 +16,10 @@
       <file leaf-file-name="marsrover.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/marsrover.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="27" lean-forward="true" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
+            <state relative-caret-position="534">
+              <caret line="49" column="32" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
               <folding>
-                <marker date="1523442416359" expanded="true" signature="1435:1443" ph="..." />
+                <marker date="1523443640933" expanded="true" signature="1545:1553" ph="..." />
               </folding>
             </state>
           </provider>
@@ -52,10 +50,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="824" />
+    <option name="height" value="823" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -105,7 +103,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="823" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="823" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16319445" />
@@ -136,10 +134,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/marsrover.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="27" lean-forward="true" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
+        <state relative-caret-position="534">
+          <caret line="49" column="32" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
           <folding>
-            <marker date="1523442416359" expanded="true" signature="1435:1443" ph="..." />
+            <marker date="1523443640933" expanded="true" signature="1545:1553" ph="..." />
           </folding>
         </state>
       </provider>
