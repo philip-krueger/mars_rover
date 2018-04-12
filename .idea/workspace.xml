@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a0de20d-328a-46ca-82b5-c807c872e020" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/unittest_rover.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/marsrover.py" beforeDir="false" afterPath="$PROJECT_DIR$/marsrover.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_marsrover.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_marsrover.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_marsrover.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest_rover.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittest_rover.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,29 +19,20 @@
       <file leaf-file-name="marsrover.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/marsrover.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2478">
-              <caret line="177" column="34" selection-start-line="177" selection-start-column="34" selection-end-line="177" selection-end-column="34" />
+            <state relative-caret-position="302">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_marsrover.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test_marsrover.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-              <folding>
-                <element signature="e#0#27#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="unittest_rover.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="unittest_rover.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/unittest_rover.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            <state relative-caret-position="405">
+              <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -61,8 +52,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/unittest_rover.py" />
         <option value="$PROJECT_DIR$/test_marsrover.py" />
+        <option value="$PROJECT_DIR$/unittest_rover.py" />
         <option value="$PROJECT_DIR$/marsrover.py" />
       </list>
     </option>
@@ -106,7 +97,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Unittests in unittest_rover.py">
     <configuration name="test_marsrover" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mars_rover" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -125,8 +116,26 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="Unittests in unittest_rover.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="mars_rover" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/unittest_rover.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.test_marsrover" />
+      <item itemvalue="Python tests.Unittests in unittest_rover.py" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in unittest_rover.py" />
         <item itemvalue="Python.test_marsrover" />
       </list>
     </recent_temporary>
@@ -144,6 +153,20 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_unittest_rover_py - 2018.04.12 at 14h 58m 23s.xml">
+      <configuration name="Unittests in unittest_rover.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_unittest_rover_py - 2018.04.12 at 15h 01m 05s.xml">
+      <configuration name="Unittests in unittest_rover.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_unittest_rover_py - 2018.04.12 at 15h 01m 45s.xml">
+      <configuration name="Unittests in unittest_rover.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_unittest_rover_py - 2018.04.12 at 15h 02m 56s.xml">
+      <configuration name="Unittests in unittest_rover.py" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="2560" height="1440" extended-state="0" />
     <editor active="true" />
@@ -151,7 +174,7 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.091796875" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.17002882" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30691642" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -190,32 +213,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_marsrover.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marsrover.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/unittest_rover.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/marsrover.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2478">
-          <caret line="177" column="34" selection-start-line="177" selection-start-column="34" selection-end-line="177" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_marsrover.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="405">
+          <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
           <folding>
-            <element signature="e#0#27#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
